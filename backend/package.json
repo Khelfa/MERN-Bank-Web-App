@@ -8,7 +8,7 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "balram0608",
+  "author": "Khalfa",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
